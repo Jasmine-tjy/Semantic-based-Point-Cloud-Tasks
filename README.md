@@ -141,7 +141,7 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [Spatiality-guided transformer for 3d dense captioning on point clouds](https://arxiv.org/abs/2204.10688) \[2022 arxiv\] :octocat:[code](https://spacap3d.github.io/)
 * [X-trans2cap: Cross-modal knowledge transfer using transformer for 3d dense captioning](https://ieeexplore.ieee.org/document/9879338) \[2022 CVPR\]
 * [3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds](https://ieeexplore.ieee.org/document/9879358) \[2022 CVPR\]
-* [A comprehensive survey of 3d dense captioning: Localizing and describing objects in 3d scenes]([https://dl.acm.org/doi/10.1109/TCSVT.2023.3296889](https://ieeexplore.ieee.org/document/10187165)) \[2024 TCSVT\]
+* [A comprehensive survey of 3d dense captioning: Localizing and describing objects in 3d scenes](https://ieeexplore.ieee.org/document/10187165) \[2024 TCSVT\]
 * [Pointnetvlad: Deep point cloud based retrieval for large-scale place recognition](https://ieeexplore.ieee.org/document/8578568) \[2018 CVPR\] :octocat:[code](https://github.com/mikacuy/pointnetvlad)
 * [Text2Loc: 3D Point Cloud Localization from Natural Language](https://arxiv.org/pdf/2311.15977) \[2024 CVPR\] :octocat:[code](https://github.com/Yan-Xia/Text2Loc)
 
