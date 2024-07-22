@@ -32,7 +32,7 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 ##### (3) Point-based Semantic Segmentation
 * [Pointnet++: Deep hierarchical feature learning on point sets in a metric space](https://dl.acm.org/doi/abs/10.5555/3295222.3295263) \[2017 NIPS\] :octocat:[code](https://github.com/charlesq34/pointnet2)
 * [Point transformer](https://ieeexplore.ieee.org/document/9710703) \[2021 ICCV\]
-* [Backward attentive fusing network with local aggregation classifier for 3d point cloud semantic segmentation](2021 TIP) \[https://ieeexplore.ieee.org/abstract/document/9410334\] :octocat:[code](https://github.com/Xiangxu-0103/BAF-LAC)
+* [Backward attentive fusing network with local aggregation classifier for 3d point cloud semantic segmentation](https://ieeexplore.ieee.org/abstract/document/9410334) \[2021 TIP\] :octocat:[code](https://github.com/Xiangxu-0103/BAF-LAC)
 * [Cga-net: Category guided aggregation for point cloud semantic segmentation](https://ieeexplore.ieee.org/document/9577467) \[2021 CVPR\] :octocat:[code](https://github.com/MCG-NJU/CGA-Net)
 * [Point transformer v2: Grouped vector attention and partition-based pooling](https://papers.nips.cc/paper_files/paper/2022/hash/d78ece6613953f46501b958b7bb4582f-Abstract-Conference.html) \[2022 NIPS\] :octocat:[code](https://github.com/Gofinge/PointTransformerV2)
 * [Dcnet: Large-scale point cloud semantic segmentation with discriminative and efficient feature aggregation](https://ieeexplore.ieee.org/document/10025770) \[2023 TCSVT\] :octocat:[code](https://github.com/fukunyin/DCNet)
