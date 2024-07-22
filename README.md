@@ -178,3 +178,4 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [Crosspoint: Self-supervised cross-modal contrastive learning for 3d point cloud understanding](https://ieeexplore.ieee.org/document/9878878) \[2022 CVPR\] :octocat:[code](https://github.com/MohamedAfham/CrossPoint)
 * [Leaf: Learning frames for 4d point cloud sequence understanding](https://ieeexplore.ieee.org/document/10377208) \[2023 ICCV\]
 * [MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding](https://arxiv.org/pdf/2402.10002) \[2024 AAAI\] :octocat:[code](https://github.com/HaydenYu/MM-Point)
+* [Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following](https://arxiv.org/pdf/2309.00615) \[arxiv 2023\] :octocat:[code](https://github.com/ZiyuGuo99/Point-Bind_Point-LLM)
