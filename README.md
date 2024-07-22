@@ -147,13 +147,19 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 
 
 ### 2.2 Point Cloud Semantic Scene Completion
-* []() \[\] :octocat:[code]()
-* []() \[\] :octocat:[code]()
-* []() \[\] :octocat:[code]()
-* []() \[\] :octocat:[code]()
-* []() \[\] :octocat:[code]()
-* []() \[\] :octocat:[code]()
-* []() \[\] :octocat:[code]()
+* [See and think: Disentangling semantic scene completion](https://dl.acm.org/doi/10.5555/3326943.3326968) \[2018 NIPS\] :octocat:[code](https://github.com/ShiceLiu/SATNet)
+* [3D Semantic Scene Completion from a Single Depth Image Using Adversarial Training](https://ieeexplore.ieee.org/abstract/document/8803174) \[2019 ICIP\] :octocat:[code](https://github.com/shurans/sscnet)
+* [Cascaded context pyramid for full-resolution 3d semantic scene completion](https://ieeexplore.ieee.org/document/9008381) \[2019 ICCV\] 
+* [3d sketch-aware semantic scene completion via semi-supervised structure prior](https://ieeexplore.ieee.org/document/9156418) \[2020 CVPR\] :octocat:[code](https://github.com/CV-IP/3D-SketchAware-SSC)
+* [Attention-based multimodal fusion network for semantic scene completion](https://ojs.aaai.org/index.php/AAAI/article/view/6803) \[2020 AAAI\]
+* [Semantic scene completion using local deep implicit functions on lidar data](https://ieeexplore.ieee.org/abstract/document/9477025) \[2022 TPAMI\]
+* [Voxformer: Sparse voxel transformer for camerabased 3d semantic scene completion](https://ieeexplore.ieee.org/document/10203337) \[2023 CVPR\] :octocat:[code](https://github.com/NV1abs/VoxFormer)
+* [Scpnet: Semantic scene completion on point cloud](https://ieeexplore.ieee.org/document/10203998) \[2023 CVPR\] :octocat:[code](https://github.com/SCPNet/Codes-for-SCPNet)
+* [Occdepth: A depth-aware method for 3d semantic scene completion](https://arxiv.org/abs/2302.13540) \[2023 arxiv\] :octocat:[code](https://github.com/megvii-research/OccDepth)
+* [Ddit: Semantic scene completion via deformable deep implicit templates](https://ieeexplore.ieee.org/document/10376787) \[2023 ICCV\] 
+* [Cvsformer: Cross-view synthesis transformer for semantic scene completion](https://ieeexplore.ieee.org/abstract/document/10378387) \[2023 ICCV\] :octocat:[code](https://github.com/donghaotian123/CVSformer.)
+* [Ndc-scene: Boost monocular 3d semantic scene completion in normalized device coordinates space](https://ieeexplore.ieee.org/document/10376597) \[2023 ICCV\] :octocat:[code](https://github.com/Jiawei-Yao0812/NDCScene)
+* [Esc-net: Alleviating triple sparsity on 3d lidar point clouds for extreme sparse scene completion](https://ieeexplore.ieee.org/document/10409585) \[2024 TMM\]
 * [Symphonize 3D Semantic Scene Completion with Contextual Instance Queries](https://arxiv.org/pdf/2306.15670) \[2024 CVPR\] :octocat:[code](https://github.com/hustvl/Symphonies)
 * [Unleashing Network Potentials for Semantic Scene Completion](https://arxiv.org/pdf/2403.07560v1) \[2024 CVPR\] :octocat:[code](https://github.com/fereenwong/AMMNet)
 * [SemCity: Semantic Scene Generation with Triplane Diffusion](https://arxiv.org/pdf/2403.07773v1) \[2024 CVPR\] :octocat:[code](https://github.com/zoomin-lee/SemCity)
