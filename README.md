@@ -38,7 +38,7 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [Point transformer v2: Grouped vector attention and partition-based pooling](https://papers.nips.cc/paper_files/paper/2022/hash/d78ece6613953f46501b958b7bb4582f-Abstract-Conference.html) \[2022 NIPS\] :octocat:[code](https://github.com/Gofinge/PointTransformerV2)
 * [Dcnet: Large-scale point cloud semantic segmentation with discriminative and efficient feature aggregation](https://ieeexplore.ieee.org/document/10025770) \[2023 TCSVT\] :octocat:[code](https://github.com/fukunyin/DCNet)
 * [Point transformer v3: Simpler, faster, stronger](https://arxiv.org/abs/2312.10035) \[2024 CVPR\] :octocat:[code](https://github.com/Pointcept/PointTransformerV3)
-
+* [KPConvX: Modernizing Kernel Point Convolution with Kernel Attention](https://openaccess.thecvf.com/content/CVPR2024/html/Thomas_KPConvX_Modernizing_Kernel_Point_Convolution_with_Kernel_Attention_CVPR_2024_paper.html) \[2024 CVPR\] :octocat:[code](https://github.com/apple/ml-kpconvx)
 
 ##### (4) Unit-sets-based on Semantic Segmentation
 * [Instance segmentation in 3d scenes using semantic superpoint tree networks](https://ieeexplore.ieee.org/document/9709996) \[2021 ICCV\] :octocat:[code](https://github.com/Gorilla-Lab-SCUT/SSTNet)
@@ -181,6 +181,4 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following](https://arxiv.org/pdf/2309.00615) \[arxiv 2023\] :octocat:[code](https://github.com/ZiyuGuo99/Point-Bind_Point-LLM)
 * [Echoes Beyond Points: Unleashing the Power of Raw Radar Data in Multi-modality Fusion](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a8f7f12b29d9b8c227785f6b529f63b7-Abstract-Conference.html) \[2023 NIPS\] :octocat:[code](https://github.com/tusen-ai/EchoFusion)
 * [MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding](https://arxiv.org/pdf/2402.10002) \[2024 AAAI\] :octocat:[code](https://github.com/HaydenYu/MM-Point)
-#### 2.3.3 Architecture Design
-* [KPConvX: Modernizing Kernel Point Convolution with Kernel Attention](https://openaccess.thecvf.com/content/CVPR2024/html/Thomas_KPConvX_Modernizing_Kernel_Point_Convolution_with_Kernel_Attention_CVPR_2024_paper.html) \[2024 CVPR\] :octocat:[code](https://github.com/apple/ml-kpconvx)
 
