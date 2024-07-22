@@ -6,7 +6,7 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [SOLOv2: Dynamic and Fast Instance Segmentation](https://neurips.cc/virtual/2020/public/poster_cd3afef9b8b89558cd56638c3631868a.html) \[2020 NIPS\] :octocat:[code](https://git.io/AdelaiDet)
 * [SOLO: A Simple Framework for Instance Segmentation](https://ieeexplore.ieee.org/document/9536421) \[2022 TPAMI\] :octocat:[code](https://git.io/AdelaiDet)
 * [NeuralBF: Neural Bilateral Filtering for Top-down Instance Segmentation on Point Clouds](https://arxiv.org/pdf/2207.09978v1) \[2023 WACV\] 
-* [PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation](https://arxiv.org/pdf/2306.10013) \[2024 CVPR\] :octocat: [code](https://github.com/Robertwyq/PanoOcc) 
+
 ####  1.1.2 Bottom-up Semantic Segmentation Method
 ##### (1) Voxel-based Semantic Segmentation
 * [Pointgrid: A deep network for 3d shape understanding](https://ieeexplore.ieee.org/document/8579057) \[2018 CVPR\] :octocat:[code](https://github.com/trucleduc/PointGrid)
@@ -14,6 +14,7 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [VMNet: Voxel-Mesh Network for Geodesic-Aware 3D Semantic Segmentation](https://ieeexplore.ieee.org/document/9710530) \[2021 ICCV\] :octocat:[code](https://github.com/hzykent/VMNet)
 * [GeoAuxNet: Towards Universal 3D Representation Learning for Multi-sensor Point Clouds](https://arxiv.org/pdf/2403.19220) \[2024 CVPR\] 
 :octocat:[code](https://github.com/zhangshengjun2019/GeoAuxNet)
+* [PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_PanoOcc_Unified_Occupancy_Representation_for_Camera-based_3D_Panoptic_Segmentation_CVPR_2024_paper.pdf) \[2024 CVPR\] :octocat: [code](https://github.com/Robertwyq/PanoOcc)
 
 ##### (2) Projection-based Semantic Segmentation
 * [Squeezeseg: Convolutional neural nets with recurrent crf for real-time road-object segmentation from 3d lidar point cloud](https://ieeexplore.ieee.org/document/8462926) \[2018 ICRA\] :octocat:[code](https://github.com/BichenWuUCB/SqueezeSeg)
