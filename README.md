@@ -116,26 +116,46 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [Knowledge distillation from 3d to bird’s-eye-view for lidar semantic segmentation](https://ieeexplore.ieee.org/document/10220057) \[2023 ICME\] :octocat:[code](https://github.com/fengjiang5/Knowledge-Distillation-from-Cylinder3D-to-PolarNet)
 
 ### 1.2 Point Cloud Compression
+* [Lossless point cloud geometry and attribute compression using a learned conditional probability model](https://ieeexplore.ieee.org/document/10024999) \[2023 TCSVT\] :octocat:[code](https://github.com/Weafre/CNeT)
+* [Hm-pcgc: A human-machine balanced point cloud geometry compression scheme](https://ieeexplore.ieee.org/document/10222524) \[2023 ICIP\]
+* [Pchm-net: A new point cloud compression framework for both human vision and machine vision](https://ieeexplore.ieee.org/document/10219641) \[2023 ICME\]
+* [A task-driven scene-aware lidar point cloud coding framework for autonomous vehicles](https://ieeexplore.ieee.org/document/9944923) \[2023 TII\]
 * [Inter-frame compression for dynamic point cloud geometry coding](https://ieeexplore.ieee.org/document/10380494) \[2024 TIP\] 
-* []() \[\] :octocat:[code]()
+* [Occupancy-assisted attribute artifact reduction for video-based point cloud compression](https://ieeexplore.ieee.org/document/10416804) \[2024 TB\]
+* [A unified framework for jointly compressing visual and semantic data](https://dl.acm.org/doi/10.1145/3654800) \[2024 ACM\]
 ### 1.3 Point Cloud Registration
-
-* []() \[\] :octocat:[code]()
-* []() \[\] :octocat:[code]()
+* [Probabilistic data association for semantic slam](https://ieeexplore.ieee.org/document/7989203) \[2017 ICRA\]
+* [Integrating deep semantic segmentation into 3-d point cloud registration](https://ieeexplore.ieee.org/document/8387438) \[2018 RAL\]
+* [Fast point cloud registration using semantic segmentation](https://ieeexplore.ieee.org/document/8945870) \[2019 DICTA\]
+* [Robust point set registration based on semantic information](https://ieeexplore.ieee.org/document/9282862) \[2020 SMC\]
+* [Point set registration with semantic region association using cascaded expectation maximization](https://ieeexplore.ieee.org/document/9561140) \[2021 ICRA\]
+* [A new framework for registration of semantic point clouds from stereo and rgb-d cameras](https://ieeexplore.ieee.org/document/9561929) \[2021 ICRA\] :octocat:[code](https://github.com/UMich-CURLY/unified_cvo)
+* [Partial-to-partial point cloud registration based on multi-level semantic-structural cognition](https://ieeexplore.ieee.org/document/9860002) \[2022 ICME\]
+* [Segregator: Global point cloud registration with semantic and geometric cues](https://ieeexplore.ieee.org/document/10160798) \[2023 ICRA\] :octocat:[code](https://github.com/Pamphlett/Segregator)
+* [Pyramid semantic graph-based global point cloud registration with low overlap](https://ieeexplore.ieee.org/document/10341394) \[2023 IROS\] :octocat:[code](https://github.com/HKUST-Aerial-Robotics/Pagor)
+* [Deepsir: Deep semantic iterative registration for lidar point clouds](https://dl.acm.org/doi/10.1016/j.patcog.2023.109306) \[2023 Pattern Recognit\] :octocat:[code](https://github.com/LeoQLi/DeepSIR)
 ### 1.4 Point Cloud Reconstruction
-* []() \[\] :octocat:[code]()
-* []() \[\] :octocat:[code]()
-* []() \[\] :octocat:[code]()
 * [Rfd-net: Point scene understanding by semantic instance reconstruction](https://ieeexplore.ieee.org/document/9578585) \[2021 CVPR\]
+* [Buildingfusion: Semantic-aware structural building-scale 3d reconstruction](https://ieeexplore.ieee.org/document/9286413) \[2022 TPAMI\]
+* [Real-time globally consistent 3d reconstruction with semantic priors](https://ieeexplore.ieee.org/document/9662197) \[2023 TVCG\]
+* [Sg-nerf: Semantic-guided point-based neural radiance fields](https://ieeexplore.ieee.org/document/10219715) \[2023 ICME\]
+* [Navinerf: Nerf-based 3d representation disentanglement by latent semantic navigation](https://ieeexplore.ieee.org/document/10377982) \[2023 ICCV\]
 * [NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields](https://arxiv.org/pdf/2304.14811) \[2024 AAAI\] :octocat:[code](https://github.com/fudan-zvg/NeRF-LiDAR)
   
 ## 2. New Point Cloud Tasks with Semantic
 
 ### 2.1 3D Scene Understanding
 #### 2.1.1 Scene Graph Prediction
-* []() \[\] :octocat:[code]()
-* []() \[\] :octocat:[code]()
-* []() \[\] :octocat:[code]()
+* [Learning 3d semantic scene graphs from 3d indoor reconstructions](https://ieeexplore.ieee.org/document/9156565) \[2020 CVPR\]
+* [Scenegraphfusion: Incremental 3d scene graph prediction from rgb-d sequences](https://ieeexplore.ieee.org/document/9578559) \[2021 CVPR\]
+* [Exploiting edge-oriented reasoning for 3d point-based scene graph analysis](https://ieeexplore.ieee.org/document/9578123) \[2021 CVPR\] :octocat:[code](https://SGGpoint.github.io)
+* [Knowledge-inspired 3d scene graph prediction in point cloud](https://proceedings.neurips.cc/paper/2021/file/9a555403384fc12f931656dea910e334-Paper.pdf) \[2021 NIPS\]
+* [Graph-to-3d: End-to-end generation and manipulation of 3d scenes using scene graphs](https://ieeexplore.ieee.org/document/9710451) \[2021 ICCV\] :octocat:[code]( https://he-dhamo.github.io/Graphto3D/)
+* [Learning 3d semantic scene graphs with instance embeddings](https://link.springer.com/article/10.1007/s11263-021-01546-9) \[2022 IJCV\]
+* [Vl-sat: Visual-linguistic semantics assisted training for 3d semantic scene graph prediction in point cloud](https://ieeexplore.ieee.org/document/10205194) \[2023 CVPR\] :octocat:[code](https://github.com/wz7in/CVPR2023-VLSAT)
+* [Sgrec3d: Self-supervised 3d scene graph learning via object-level scene reconstruction](https://ieeexplore.ieee.org/document/10484453) \[2024 WACV\]
+* [Commonscenes: Generating commonsense 3d indoor scenes with scene graphs](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fba70900a84a8fb755c48ba99420c95-Paper-Conference.pdf) \[2024 NIPS\]
+
 #### 2.1.2 3D vision with language
 * [Scan2cap: Context-aware dense captioning in rgb-d scans](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Scan2Cap_Context-Aware_Dense_Captioning_in_RGB-D_Scans_CVPR_2021_paper.pdf) \[2021 CVPR\] :octocat:[code](https://github.com/daveredrum/Scan2Cap)
 * [Free-form description guided 3d visual graph network for object grounding in point cloud](https://ieeexplore.ieee.org/document/9710755) \[2021 ICCV\] :octocat:[code](https://github.com/PNXD/FFL-3DOG)
