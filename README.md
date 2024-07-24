@@ -12,8 +12,7 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [Pointgrid: A deep network for 3d shape understanding](https://ieeexplore.ieee.org/document/8579057) \[2018 CVPR\] :octocat:[code](https://github.com/trucleduc/PointGrid)
 * [Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution](https://www.semanticscholar.org/paper/Searching-Efficient-3D-Architectures-with-Sparse/769dbcb80cc1d2d17ae7c524644103d0f6595452) \[2020 ECCV\] :octocat:[code](https://github.com/mit-han-lab/spvnas)
 * [VMNet: Voxel-Mesh Network for Geodesic-Aware 3D Semantic Segmentation](https://ieeexplore.ieee.org/document/9710530) \[2021 ICCV\] :octocat:[code](https://github.com/hzykent/VMNet)
-* [GeoAuxNet: Towards Universal 3D Representation Learning for Multi-sensor Point Clouds](https://arxiv.org/pdf/2403.19220) \[2024 CVPR\] 
-:octocat:[code](https://github.com/zhangshengjun2019/GeoAuxNet)
+* [GeoAuxNet: Towards Universal 3D Representation Learning for Multi-sensor Point Clouds](https://arxiv.org/pdf/2403.19220) \[2024 CVPR\] :octocat: [code](https://github.com/zhangshengjun2019/GeoAuxNet)
 * [PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_PanoOcc_Unified_Occupancy_Representation_for_Camera-based_3D_Panoptic_Segmentation_CVPR_2024_paper.pdf) \[2024 CVPR\] :octocat: [code](https://github.com/Robertwyq/PanoOcc)
 
 ##### (2) Projection-based Semantic Segmentation
