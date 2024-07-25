@@ -165,7 +165,7 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [A comprehensive survey of 3d dense captioning: Localizing and describing objects in 3d scenes](https://ieeexplore.ieee.org/document/10187165) \[2024 TCSVT\]
 ##### (2) 3D Point Cloud Localization
 * [Pointnetvlad: Deep point cloud based retrieval for large-scale place recognition](https://ieeexplore.ieee.org/document/8578568) \[2018 CVPR\] :octocat:[code](https://github.com/mikacuy/pointnetvlad)
-* [Text2Loc: 3D Point Cloud Localization from Natural Language](https://arxiv.org/pdf/2311.15977) \[2024 CVPR\] :octocat:[code](https://github.com/Yan-Xia/Text2Loc)
+* [Text2Loc: 3D Point Cloud Localization from Natural Language](https://openaccess.thecvf.com/content/CVPR2024/papers/Xia_Text2Loc_3D_Point_Cloud_Localization_from_Natural_Language_CVPR_2024_paper.pdf) \[2024 CVPR\] :octocat:[code](https://github.com/Yan-Xia/Text2Loc)
 
 ### 2.2 Point Cloud Semantic Scene Completion
 * [See and think: Disentangling semantic scene completion](https://dl.acm.org/doi/10.5555/3326943.3326968) \[2018 NIPS\] :octocat:[code](https://github.com/ShiceLiu/SATNet)
