@@ -156,12 +156,14 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [Commonscenes: Generating commonsense 3d indoor scenes with scene graphs](https://proceedings.neurips.cc/paper_files/paper/2023/file/5fba70900a84a8fb755c48ba99420c95-Paper-Conference.pdf) \[2024 NIPS\]
 
 #### 2.1.2 3D vision with language
+##### (1) 3D Dense Captioning
 * [Scan2cap: Context-aware dense captioning in rgb-d scans](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Scan2Cap_Context-Aware_Dense_Captioning_in_RGB-D_Scans_CVPR_2021_paper.pdf) \[2021 CVPR\] :octocat:[code](https://github.com/daveredrum/Scan2Cap)
 * [Free-form description guided 3d visual graph network for object grounding in point cloud](https://ieeexplore.ieee.org/document/9710755) \[2021 ICCV\] :octocat:[code](https://github.com/PNXD/FFL-3DOG)
 * [Spatiality-guided transformer for 3d dense captioning on point clouds](https://arxiv.org/abs/2204.10688) \[2022 arxiv\] :octocat:[code](https://spacap3d.github.io/)
 * [X-trans2cap: Cross-modal knowledge transfer using transformer for 3d dense captioning](https://ieeexplore.ieee.org/document/9879338) \[2022 CVPR\]
 * [3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds](https://ieeexplore.ieee.org/document/9879358) \[2022 CVPR\]
 * [A comprehensive survey of 3d dense captioning: Localizing and describing objects in 3d scenes](https://ieeexplore.ieee.org/document/10187165) \[2024 TCSVT\]
+##### (2) 3D Point Cloud Localization
 * [Pointnetvlad: Deep point cloud based retrieval for large-scale place recognition](https://ieeexplore.ieee.org/document/8578568) \[2018 CVPR\] :octocat:[code](https://github.com/mikacuy/pointnetvlad)
 * [Text2Loc: 3D Point Cloud Localization from Natural Language](https://arxiv.org/pdf/2311.15977) \[2024 CVPR\] :octocat:[code](https://github.com/Yan-Xia/Text2Loc)
 
