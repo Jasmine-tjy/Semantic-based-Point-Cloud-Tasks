@@ -205,4 +205,8 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following](https://arxiv.org/pdf/2309.00615) \[arxiv 2023\] :octocat:[code](https://github.com/ZiyuGuo99/Point-Bind_Point-LLM)
 * [Echoes Beyond Points: Unleashing the Power of Raw Radar Data in Multi-modality Fusion](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a8f7f12b29d9b8c227785f6b529f63b7-Abstract-Conference.html) \[2023 NIPS\] :octocat:[code](https://github.com/tusen-ai/EchoFusion)
 * [MM-Point: Multi-View Information-Enhanced Multi-Modal Self-Supervised 3D Point Cloud Understanding](https://arxiv.org/pdf/2402.10002) \[2024 AAAI\] :octocat:[code](https://github.com/HaydenYu/MM-Point)
-
+#### 2.3.3 Network Architecture Optimization
+* [ConDaFormer: Disassembled Transformer with Local Structure Enhancement for 3D Point Cloud Understanding](https://dl.acm.org/doi/10.5555/3666122.3667159) \[2023 NIPS\] :octocat:[code](https://github.com/LHDuan/ConDaFormer)
+* [Self-Positioning Point-Based Transformer for Point Cloud Understanding](https://openaccess.thecvf.com/content/CVPR2023/papers/Park_Self-Positioning_Point-Based_Transformer_for_Point_Cloud_Understanding_CVPR_2023_paper.pdf) \[2023 CVPR\] :octocat:[code](https://github.com/mlvlab/SPoTr)
+* [Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy](https://arxiv.org/abs/2403.06467) \[2024 arxiv\] :octocat:[code](https://github.com/IRMVLab/Point-Mamba)
+* [Point Cloud Mamba: Point Cloud Learning via State Space Model](https://arxiv.org/abs/2403.00762) \[2024 arxiv\] :octocat:[code](https://github.com/SkyworkAI/PointCloudMamba)
