@@ -1,7 +1,7 @@
 # Semantic-based-Point-Cloud-Tasks
 This is an open-source repository for semantic based point cloud tasks, and we aim to provide a comprehensive summary of various semantic based point cloud tasks.
-## 1. Traditional Point Cloud Tasks with Semantic
-### 1.1 Point Cloud Semantic Segmentation
+## 1. Traditional Point Cloud Tasks with Semantic :diamond_shape_with_a_dot_inside:
+### 1.1 Point Cloud Semantic Segmentation  :small_blue_diamond:
 #### 1.1.1 Top-down Segmentation Method
 * [SOLOv2: Dynamic and Fast Instance Segmentation](https://neurips.cc/virtual/2020/public/poster_cd3afef9b8b89558cd56638c3631868a.html) \[2020 NIPS\] :octocat:[code](https://git.io/AdelaiDet)
 * [SOLO: A Simple Framework for Instance Segmentation](https://ieeexplore.ieee.org/document/9536421) \[2022 TPAMI\] :octocat:[code](https://git.io/AdelaiDet)
@@ -114,7 +114,7 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [Pointdistiller: Structured knowledge distillation towards efficient and compact 3d detection](https://ieeexplore.ieee.org/abstract/document/10205029) \[2023 CVPR\] :octocat:[code](https://github.com/RunpeiDong/PointDistiller)
 * [Knowledge distillation from 3d to bird’s-eye-view for lidar semantic segmentation](https://ieeexplore.ieee.org/document/10220057) \[2023 ICME\] :octocat:[code](https://github.com/fengjiang5/Knowledge-Distillation-from-Cylinder3D-to-PolarNet)
 
-### 1.2 Point Cloud Compression
+### 1.2 Point Cloud Compression  :small_blue_diamond:
 * [Lossless point cloud geometry and attribute compression using a learned conditional probability model](https://ieeexplore.ieee.org/document/10024999) \[2023 TCSVT\] :octocat:[code](https://github.com/Weafre/CNeT)
 * [Hm-pcgc: A human-machine balanced point cloud geometry compression scheme](https://ieeexplore.ieee.org/document/10222524) \[2023 ICIP\]
 * [Pchm-net: A new point cloud compression framework for both human vision and machine vision](https://ieeexplore.ieee.org/document/10219641) \[2023 ICME\]
@@ -122,7 +122,7 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [Inter-frame compression for dynamic point cloud geometry coding](https://ieeexplore.ieee.org/document/10380494) \[2024 TIP\] 
 * [Occupancy-assisted attribute artifact reduction for video-based point cloud compression](https://ieeexplore.ieee.org/document/10416804) \[2024 TB\]
 * [A unified framework for jointly compressing visual and semantic data](https://dl.acm.org/doi/10.1145/3654800) \[2024 ACM\]
-### 1.3 Point Cloud Registration
+### 1.3 Point Cloud Registration  :small_blue_diamond:
 * [Probabilistic data association for semantic slam](https://ieeexplore.ieee.org/document/7989203) \[2017 ICRA\]
 * [Integrating deep semantic segmentation into 3-d point cloud registration](https://ieeexplore.ieee.org/document/8387438) \[2018 RAL\]
 * [Fast point cloud registration using semantic segmentation](https://ieeexplore.ieee.org/document/8945870) \[2019 DICTA\]
@@ -133,17 +133,18 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [Segregator: Global point cloud registration with semantic and geometric cues](https://ieeexplore.ieee.org/document/10160798) \[2023 ICRA\] :octocat:[code](https://github.com/Pamphlett/Segregator)
 * [Pyramid semantic graph-based global point cloud registration with low overlap](https://ieeexplore.ieee.org/document/10341394) \[2023 IROS\] :octocat:[code](https://github.com/HKUST-Aerial-Robotics/Pagor)
 * [Deepsir: Deep semantic iterative registration for lidar point clouds](https://dl.acm.org/doi/10.1016/j.patcog.2023.109306) \[2023 Pattern Recognit\] :octocat:[code](https://github.com/LeoQLi/DeepSIR)
-### 1.4 Point Cloud Reconstruction
+### 1.4 Point Cloud Reconstruction  :small_blue_diamond:
 * [Rfd-net: Point scene understanding by semantic instance reconstruction](https://ieeexplore.ieee.org/document/9578585) \[2021 CVPR\]
 * [Buildingfusion: Semantic-aware structural building-scale 3d reconstruction](https://ieeexplore.ieee.org/document/9286413) \[2022 TPAMI\]
 * [Real-time globally consistent 3d reconstruction with semantic priors](https://ieeexplore.ieee.org/document/9662197) \[2023 TVCG\]
 * [Sg-nerf: Semantic-guided point-based neural radiance fields](https://ieeexplore.ieee.org/document/10219715) \[2023 ICME\]
 * [Navinerf: Nerf-based 3d representation disentanglement by latent semantic navigation](https://ieeexplore.ieee.org/document/10377982) \[2023 ICCV\]
 * [NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields](https://arxiv.org/pdf/2304.14811) \[2024 AAAI\] :octocat:[code](https://github.com/fudan-zvg/NeRF-LiDAR)
-  
-## 2. New Point Cloud Tasks with Semantic
 
-### 2.1 3D Scene Understanding
+  
+## 2. New Point Cloud Tasks with Semantic :diamond_shape_with_a_dot_inside:
+
+### 2.1 3D Scene Understanding  :small_blue_diamond:
 #### 2.1.1 Scene Graph Prediction
 * [Learning 3d semantic scene graphs from 3d indoor reconstructions](https://ieeexplore.ieee.org/document/9156565) \[2020 CVPR\]
 * [Scenegraphfusion: Incremental 3d scene graph prediction from rgb-d sequences](https://ieeexplore.ieee.org/document/9578559) \[2021 CVPR\]
@@ -170,7 +171,7 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [Text to point cloud localization with relation-enhanced transformer](https://ojs.aaai.org/index.php/AAAI/article/view/25347) \[2023 AAAI\] :octocat:[code](https://github.com/daoyuan98/text2pos-ret)
 * [Text2Loc: 3D Point Cloud Localization from Natural Language](https://openaccess.thecvf.com/content/CVPR2024/papers/Xia_Text2Loc_3D_Point_Cloud_Localization_from_Natural_Language_CVPR_2024_paper.pdf) \[2024 CVPR\] :octocat:[code](https://github.com/Yan-Xia/Text2Loc)
 
-### 2.2 Point Cloud Semantic Scene Completion
+### 2.2 Point Cloud Semantic Scene Completion  :small_blue_diamond:
 * [See and think: Disentangling semantic scene completion](https://dl.acm.org/doi/10.5555/3326943.3326968) \[2018 NIPS\] :octocat:[code](https://github.com/ShiceLiu/SATNet)
 * [3D Semantic Scene Completion from a Single Depth Image Using Adversarial Training](https://ieeexplore.ieee.org/abstract/document/8803174) \[2019 ICIP\] :octocat:[code](https://github.com/shurans/sscnet)
 * [Cascaded context pyramid for full-resolution 3d semantic scene completion](https://ieeexplore.ieee.org/document/9008381) \[2019 ICCV\] 
@@ -188,7 +189,7 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [Unleashing Network Potentials for Semantic Scene Completion](https://arxiv.org/pdf/2403.07560v1) \[2024 CVPR\] :octocat:[code](https://github.com/fereenwong/AMMNet)
 * [SemCity: Semantic Scene Generation with Triplane Diffusion](https://arxiv.org/pdf/2403.07773v1) \[2024 CVPR\] :octocat:[code](https://github.com/zoomin-lee/SemCity)
   
-### 2.3 Point Cloud Understanding
+### 2.3 Point Cloud Understanding  :small_blue_diamond:
 #### 2.3.1 Integration Tasks in Point Clouds
 * [Jsis3d: Joint semantic-instance segmentation of 3d point clouds with multi-task pointwise networks and multi-value conditional random fields](https://ieeexplore.ieee.org/document/9412532) \[2020 ICPR\] :octocat:[code](https://github.com/pqhieu/jsis3d)
 * [Associatively segmenting instances and semantics in point clouds](https://ieeexplore.ieee.org/document/8953321) \[2019 CVPR\] :octocat:[code](https://github.com/WXinlong/ASIS)
