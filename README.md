@@ -1,5 +1,17 @@
 # Semantic-based-Point-Cloud-Tasks
-This is an open-source repository for semantic based point cloud tasks, and we aim to provide a comprehensive summary of various semantic based point cloud tasks. The paper ***[Implicit Guidance and Explicit Representation of Semantic Information in Points Cloud: A Survey](https://arxiv.org/abs/2501.05473)*** corresponding to this GitHub provides a detailed introduction and analysis of the application of semantic information in both traditional and emerging tasks in point clouds.
+This is an open-source repository for semantic based point cloud tasks, and we aim to provide a comprehensive summary of various semantic based point cloud tasks. The paper ***[Implicit Guidance and Explicit Representation of Semantic Information in Points Cloud: A Survey](https://arxiv.org/abs/2501.05473)*** corresponding to this repository provides a detailed introduction and analysis of the application of semantic information in both traditional and emerging tasks in point clouds. If you find our work useful in your research, please consider citing:
+  ```
+@misc{tang2025implicitguidanceexplicitrepresentation,
+      title={Implicit Guidance and Explicit Representation of Semantic Information in Points Cloud: A Survey}, 
+      author={Jingyuan Tang and Yuhuan Zhao and Songlin Sun and Yangang Cai},
+      year={2025},
+      eprint={2501.05473},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.05473}, 
+}
+  ```
+
 ## 1. Traditional Point Cloud Tasks with Semantic :diamond_shape_with_a_dot_inside:
 ### 1.1 Point Cloud Semantic Segmentation  :small_blue_diamond:
 #### 1.1.1 Top-down Segmentation Method
