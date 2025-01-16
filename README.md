@@ -188,7 +188,8 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [Symphonize 3D Semantic Scene Completion with Contextual Instance Queries](https://arxiv.org/pdf/2306.15670) \[2024 CVPR\] :octocat:[code](https://github.com/hustvl/Symphonies)
 * [Unleashing Network Potentials for Semantic Scene Completion](https://arxiv.org/pdf/2403.07560v1) \[2024 CVPR\] :octocat:[code](https://github.com/fereenwong/AMMNet)
 * [SemCity: Semantic Scene Generation with Triplane Diffusion](https://arxiv.org/pdf/2403.07773v1) \[2024 CVPR\] :octocat:[code](https://github.com/zoomin-lee/SemCity)
-  
+* [VFG-SSC: Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance](https://arxiv.org/abs/2408.11559) \[2024 CVPR\]
+
 ### 2.3 Point Cloud Understanding  :small_blue_diamond:
 #### 2.3.1 Integration Tasks in Point Clouds
 * [Jsis3d: Joint semantic-instance segmentation of 3d point clouds with multi-task pointwise networks and multi-value conditional random fields](https://ieeexplore.ieee.org/document/9412532) \[2020 ICPR\] :octocat:[code](https://github.com/pqhieu/jsis3d)
