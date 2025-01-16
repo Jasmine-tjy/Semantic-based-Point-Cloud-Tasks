@@ -189,6 +189,7 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [Unleashing Network Potentials for Semantic Scene Completion](https://arxiv.org/pdf/2403.07560v1) \[2024 CVPR\] :octocat:[code](https://github.com/fereenwong/AMMNet)
 * [SemCity: Semantic Scene Generation with Triplane Diffusion](https://arxiv.org/pdf/2403.07773v1) \[2024 CVPR\] :octocat:[code](https://github.com/zoomin-lee/SemCity)
 * [VFG-SSC: Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance](https://arxiv.org/abs/2408.11559) \[2024 CVPR\]
+* [MixSSC: Forward-Backward Mixture for Vision-based 3D Semantic Scene Completion]([https://arxiv.org/abs/2408.11559](https://ieeexplore.ieee.org/abstract/document/10833696)) \[2025 TCSVT\] :octocat:[code](https://github.com/willemeng/MixSSC)
 
 ### 2.3 Point Cloud Understanding  :small_blue_diamond:
 #### 2.3.1 Integration Tasks in Point Clouds
