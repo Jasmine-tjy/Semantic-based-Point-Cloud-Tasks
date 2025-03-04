@@ -64,6 +64,8 @@ This is an open-source repository for semantic based point cloud tasks, and we a
 * [Multi-to-single knowledge distillation for point cloud semantic segmentation](https://ieeexplore.ieee.org/document/10160496) \[2023 ICRA\] :octocat:[code](https://github.com/skyshoumeng/M2SKD)
 * [Pointdistiller: Structured knowledge distillation towards efficient and compact 3d detection](https://ieeexplore.ieee.org/abstract/document/10205029) \[2023 CVPR\] :octocat:[code](https://github.com/RunpeiDong/PointDistiller)
 * [Knowledge distillation from 3d to bird’s-eye-view for lidar semantic segmentation](https://ieeexplore.ieee.org/document/10220057) \[2023 ICME\] :octocat:[code](https://github.com/fengjiang5/Knowledge-Distillation-from-Cylinder3D-to-PolarNet)
+* [Efficient 3D Semantic Segmentation with Superpoint Transformer](https://arxiv.org/abs/2306.08045) \[2023 ICCV\] :octocat:[code](https://github.com/drprojects/superpoint_transformer)
+* [Scalable 3D Panoptic Segmentation As Superpoint Graph Clustering](https://arxiv.org/abs/2401.06704) \[2024 3DV\] :octocat:[code](https://github.com/drprojects/superpoint_transformer)
   
 #### 1.1.3 Refined Segmentation Goal
 ##### (1) Generalization of Segmentation
